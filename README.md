@@ -32,8 +32,7 @@ End the program and close the output video window by pressing 'q'.
 
 ## i) Write the frame as JPG file
 ``` Python
-## Developed By: KAVI NILAVAN DK
-## Register No: 212223230103
+
 import cv2
 import numpy as np
 viedoCaptureObject=cv2.VideoCapture(0)
