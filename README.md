@@ -1,6 +1,4 @@
 # EXP-2 Image_Acqusition-_using_Web_Camera
-## Name: Karthikeyan K
-## Reg no: 212223230101
 ## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
@@ -29,8 +27,8 @@ End the program and close the output video window by pressing 'q'.
 
 
 ## Program:
-### Developed By: KAVI NILAVAN DK
-### Register No: 212223230103
+### Developed by: Karthikeyan K
+### Reg no: 212223230101
 
 ## i) Write the frame as JPG file
 ``` Python
